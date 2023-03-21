@@ -1,0 +1,5 @@
+Created a basic app :
+with the help of fragmnets, alert box  and bottom navigation view 
+to display   and toggle btw  Academic calender , Class Schedule  , syllabus .
+
+Alert box  is used to in syllbus item to allow choose of subject for which syllabus needs to be shown.
