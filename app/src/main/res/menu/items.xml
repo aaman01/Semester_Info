@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/AC"
+    android:title="Academic Calen."
+    android:icon="@drawable/baseline_calendar_month_24"/>
+
+
+    <item android:id="@+id/Rt"
+        android:title="Routine"
+        android:icon="@drawable/baseline_access_time_24"/>
+
+    <item android:id="@+id/SYr"
+        android:title="Syllabus"
+        android:icon="@drawable/baseline_menu_book_24"/>
+</menu>
